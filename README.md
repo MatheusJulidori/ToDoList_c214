@@ -1,2 +1,2 @@
-# ToDo List Aula 2
-Repositório destinado aos códigos executados na aula 2 da disciplina C214-L1
+# ToDo List
+Repositório destinado aos códigos executados no projeto ToDo List da disciplina C214-L1
